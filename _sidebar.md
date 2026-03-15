@@ -1,0 +1,5 @@
+- [Home](/)
+- [AI x Solana Resources](ai-resources.md)
+- [Tutorials & Learning](tutorials.md)
+- [Canadian Projects](canadian-projects.md)
+- [Canadian People & KOLs](canadian-people.md)
