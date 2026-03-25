@@ -15,4 +15,4 @@ PRs welcome! If you know of a resource that should be listed here, open an issue
 
 ## About
 
-Maintained by [Superteam Canada](https://superteam.fun/) — the Solana community hub for builders in Canada.
+Maintained by [Superteam Canada](https://www.superteam.ca/) — the Solana community hub for builders in Canada.
