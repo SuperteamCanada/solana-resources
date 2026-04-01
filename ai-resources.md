@@ -45,4 +45,5 @@ A curated list of AI tools, frameworks, SDKs, and projects at the intersection o
 
 - [awesome-solana-ai](https://github.com/pfrfrfr/awesome-solana-ai) — Community-maintained list of AI x Solana resources
 - [solana.com/ai](https://solana.com/ai) — Official Solana AI landing page
+- [Solana Agent Skills](https://solana.com/skills) — Pre-built skills for AI agents to interact with Solana programs, tokens, and tooling
 - [SendAI](https://www.sendai.fun/) — Hub for Solana Agent Kit and AI agent tooling

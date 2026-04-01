@@ -26,6 +26,7 @@ A curated list of tutorials, courses, bootcamps, and learning resources for Sola
 | **RareSkills — 60 Days of Solana** | Free, comprehensive 60-day Solana development course | [rareskills.io](https://www.rareskills.io/solana-tutorial) |
 | **Alchemy — Build a Solana AI Agent** | Guide to building AI agents on Solana | [alchemy.com](https://www.alchemy.com/overviews/solana-ai-agent) |
 | **QuickNode Solana Guides** | Practical development guides using QuickNode infrastructure | [quicknode.com](https://www.quicknode.com/guides/solana-development) |
+| **Blueshift** | Free, interactive on-chain learning platform with challenges and NFT credentials | [blueshift.gg](https://blueshift.gg/) |
 | **Metaplex Docs** | NFT and digital asset standard documentation for Solana | [developers.metaplex.com](https://developers.metaplex.com/) |
 
 ## Bootcamps & Programs
@@ -45,6 +46,7 @@ A curated list of tutorials, courses, bootcamps, and learning resources for Sola
 | **Solana Foundation** | Official channel with talks, workshops, and Breakpoint recordings | [YouTube](https://www.youtube.com/@SolanaFndn) |
 | **Nick Frostbutter** | Solana development tutorials and ecosystem deep dives | [YouTube](https://www.youtube.com/@nickfrostbutter) |
 | **SolAndy** | Solana development tutorials and project walkthroughs | [YouTube](https://www.youtube.com/@solandy) |
+| **Brimigs** | Solana Foundation DevRel tutorials, demos, and developer content | [YouTube](https://www.youtube.com/@brimigs) |
 | **Solfate Podcast** | Interviews with Solana builders and ecosystem updates | [YouTube](https://www.youtube.com/@solfate) |
 
 ## Developer Tools
