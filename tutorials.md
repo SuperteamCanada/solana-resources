@@ -37,7 +37,9 @@ A curated list of tutorials, courses, bootcamps, and learning resources for Sola
 | **School of Solana** | Structured Solana curriculum by Ackee Blockchain Security | [ackee.xyz](https://ackee.xyz/school-of-solana) |
 | **Superteam Earn** | Bounties and grants for building on Solana — learn by doing | [earn.superteam.fun](https://earn.superteam.fun/) |
 | **Rise In** | Free Solana bootcamp with certificates | [risein.com](https://www.risein.com/bootcamps/solana) |
-| **Solana Foundation 20hr Bootcamp** | Free, comprehensive Solana bootcamp recording (freeCodeCamp) | [YouTube](https://www.youtube.com/watch?v=amAq-WHAFs8) |
+| **Solana Crashcourse** | Quick-start course — set up your environment and deploy your first app in minutes | [solana.com](https://solana.com/developers/bootcamp/solana-crashcourse) |
+| **Solana Foundations Bootcamp (2026)** | Full 5-hour bootcamp covering fullstack development, AI best practices, and security | [solana.com](https://solana.com/developers/bootcamp/foundations) |
+| **Solana DePIN Bootcamp** | Hardware-focused track — Raspberry Pi, webhooks, and device flows | [solana.com](https://solana.com/developers/bootcamp/depin) |
 
 ## YouTube Channels
 
