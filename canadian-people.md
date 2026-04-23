@@ -6,11 +6,10 @@ A curated list of notable Canadians building in, investing in, or advocating for
 
 | Name | Role | Links |
 |------|------|-------|
-
-## Sol Strategies Leadership
-
-| Name | Role | Links |
-|------|------|-------|
+| **SuperSimon** | Superteam Canada lead | [X](https://x.com/supersimon77) |
+| **Fibonacci** | Superteam Canada Assets Onchain & BD | [X](https://x.com/0xfibonacci_) |
+| **Ben** | Superteam Canada Marketing & Founders support | [X](https://x.com/0xbenbottle) |
+| **Dev Simon** | Superteam Canada Dev Rel | [X](https://x.com/SimiStern) |
 
 ## ETF & Finance Leaders
 
