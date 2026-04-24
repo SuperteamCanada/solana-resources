@@ -11,10 +11,6 @@ A curated list of notable Canadians building in, investing in, or advocating for
 | **Ben** | Superteam Canada Marketing & Founders support | [X](https://x.com/0xbenbottle) |
 | **Dev Simon** | Superteam Canada Dev Rel | [X](https://x.com/SimiStern) |
 
-## ETF & Finance Leaders
-
-| Name | Role | Links |
-|------|------|-------|
 
 ## Industry Figures
 
